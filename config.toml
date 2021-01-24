@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "/"
+baseURL = "https://hyeon.netlify.app/"
 languageCode = "en-us"
 title = "Portfolio for Byeong-Hyeon LEE, M.A."
 theme = "forty"
