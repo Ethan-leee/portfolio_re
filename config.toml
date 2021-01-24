@@ -19,8 +19,8 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Byeong-Hyeon, Lee"
-  description = "Portfolio/CV for Byeong-Hyeon, Lee"
+  name = "Byeong-Hyeon Lee"
+  description = "Portfolio/CV for Byeong-Hyeon Lee"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -39,8 +39,8 @@ disqusShortname = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Byeong-Hyeon, Lee M.A."
-    subtitle = "Groth Hacker, Performance Marketer"
+    title = "Byeong-Hyeon Lee M.A."
+    subtitle = "Growth Hacker, Performance Marketer"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -75,7 +75,7 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Byeong-Hyeon, LeeD"
+    title = "Byeong-Hyeon Lee, M.D."
     subtitle = "Portfolio of Growth Hacking Projects"
     buttonText = "Curriculum Vitae"
     url = "cv/"
