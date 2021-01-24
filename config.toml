@@ -200,11 +200,11 @@ disqusShortname = ""
     # by copying the corresponding map with frontmatter code.
     [[params.contact.email]]
     title = "Email"
-    email = "zkfldb (at) gmail.com"
+    email = "zkfldb@gmail.com"
 
     [[params.contact.phone]]
     title = "Phone"
-    phone = "(010)-9400-9307"
+    phone = "(+82)10-9400-9307"
 
     [[params.contact.address]]
     title = "Address"
@@ -223,8 +223,13 @@ disqusShortname = ""
       url= "https://www.instagram.com/byeong__hyeon"
       label = "Twitter"
 
-    #[[params.footer.social]]
-     # icon = "fa-facebook"
-      #url= "https://www.facebook.com/byeonghyeonleee"
-      #label = "Facebook"
+    [[params.footer.social]]
+      icon = "fa-facebook"
+      url= "https://www.facebook.com/byeonghyeonleee"
+      label = "Facebook"
+    
+    [[params.footer.social]]
+      icon = "fa-graduation-cap"
+      url= "https://scholar.google.com/citations?user=KL1d5KsAAAAJ&hl=ko/"
+      label = "Google Scholar"
 
